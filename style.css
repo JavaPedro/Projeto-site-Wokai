@@ -75,7 +75,7 @@ picture.logomarca{
     margin: auto;
 }
 
-source{
+source#pequena{
     display: block;
     margin: auto;
 }
