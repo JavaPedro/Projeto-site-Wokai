@@ -71,8 +71,13 @@ body
 
 picture.logomarca{
     display: block;
-    margin: auto;
     max-width: 700px;
+    margin: auto;
+}
+
+source{
+    display: block;
+    margin: auto;
 }
 
 main > article{
